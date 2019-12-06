@@ -1,5 +1,5 @@
 # Credit Risk Modeling
-Evaluate risk with credit loans based on borrower financial history and loan terms. Publicly available data set by Prosper Loan. 
+Evaluate risk with credit loans based on borrower financial history and loan terms using predictive classifiers and quantify risk with regression modeling. Publicly available data set by Prosper Loan. 
 
 ## Assignment Background
 
